@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Home"
+    android:id="@+id/home"
+    android:icon="@drawable/home48"/>
+    <item android:title="Search"
+        android:id="@+id/search"
+        android:icon="@drawable/search50"/>
+    <item android:title="Add post"
+        android:id="@+id/addpost"
+        android:icon="@drawable/add50"/>
+    <item android:title="Map"
+        android:id="@+id/sell"
+        android:icon="@drawable/baseline_map_24"/>
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/baseline_person_24"/>
+</menu>
